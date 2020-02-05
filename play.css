@@ -1,0 +1,32 @@
+*{
+    margin: auto;
+    box-sizing: border-box;
+    padding: 20px;
+    
+}
+body{
+    font-family: 'Ubuntu', sans-serif;
+    
+    margin-left: 200px;
+    background-image: linear-gradient(to left, rgba(228, 20, 20, 0.87), rgba(255, 253, 253, 0.863) );
+    height: 50vh;
+    background-position: center;
+}
+
+button{
+    border-radius: 50%;
+    margin-right: 5px;
+
+}
+button:hover{
+
+    background-color: rgba(29, 29, 66, 0.089);
+}
+
+  
+a{
+    text-decoration: none;
+    color: black;
+
+}
+
